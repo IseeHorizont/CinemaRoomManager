@@ -1,0 +1,3 @@
+# CinemaRoomManager
+
+![](cover.png)
